@@ -1,4 +1,5 @@
 # Bibliotecas a serem usadas
+# O programa em questão copia e cola o resultado do programa FET para arquivo em excel
 import pyautogui
 import time
 
